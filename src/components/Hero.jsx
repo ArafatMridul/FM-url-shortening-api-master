@@ -17,7 +17,7 @@ const Hero = () => {
                     <h1 className="text-center lg:text-start text-[2.5rem] lg:text-[5rem] leading-[1.2] lg:leading-[1.15] lg:tracking-tight font-bold text-n-g-3">
                         More than just shorter links
                     </h1>
-                    <p className="text-center lg:text-start text-n-g-2 text-[1.1rem] lg:text-[1.3rem] lg:w-[40ch] leading-[1.7] mt-4 lg:mt-0 lg:tracking-wide">
+                    <p className="text-center lg:text-start text-n-g-2 text-[1.1rem] lg:text-[1.2rem] lg:w-[40ch] leading-[1.7] mt-4 lg:mt-0 lg:tracking-wide">
                         Build your brand’s recognition and get detailed insights
                         on how your links are performing.
                     </p>
