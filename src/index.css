@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+    --color-p-b: hsl(180, 66%, 49%);
+    --color-p-p: hsl(257, 27%, 26%);
+    --color-s-r: hsl(0, 87%, 67%);
+    --color-n-g-1: hsl(0, 0%, 75%);
+    --color-n-g-2: hsl(257, 7%, 63%);
+    --color-n-g-3: hsl(255, 11%, 22%);
+    --color-n-g-4: hsl(260, 8%, 14%);
+    --font-p: "Poppins", sans-serif;
+}
+
+@layer utilities {
+    .wrapper {
+        @apply max-w-[1110px] mx-auto px-6 sm:px-16 lg:px-0;
+    }
+}
